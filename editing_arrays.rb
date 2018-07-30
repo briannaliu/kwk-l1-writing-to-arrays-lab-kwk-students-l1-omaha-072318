@@ -1,4 +1,4 @@
-rainbow_colors = []
+# rainbow_colors = []
 rainbow_colors = ["yellow", "default", "light_cyan"]
 
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
