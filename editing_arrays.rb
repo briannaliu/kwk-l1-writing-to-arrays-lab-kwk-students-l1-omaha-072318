@@ -11,13 +11,13 @@ def change_rainbow_colors
   # puts rainbow_colors[2]
 end
 
-puts change_rainbow_colors
+# puts change_rainbow_colors
 
 
-  # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
-def add_colors
-  change_rainbow_colors << "green"
-  change_rainbow_colors << "blue"
-end
+#   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
+# def add_colors
+#   change_rainbow_colors << "green"
+#   change_rainbow_colors << "blue"
+# end
 
-puts add_colors
+# puts add_colors
