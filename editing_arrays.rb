@@ -7,7 +7,7 @@ def change_rainbow_colors
   rainbow_colors[2] = "light_yellow"
 end
 
-change_rainbow_colors
+puts change_rainbow_colors
 
 
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
@@ -16,4 +16,4 @@ def add_colors
   rainbow_colors[4] = "blue"
 end
 
-change_rainbow_colors
+puts change_rainbow_colors
