@@ -13,8 +13,8 @@ puts change_rainbow_colors
 
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 def add_colors
-  puts change_rainbow_colors.push "green"
-  puts change_rainbow_colors.push "blue"
+  change_rainbow_colors.push "green"
+  change_rainbow_colors.push "blue"
 end
 
 puts add_colors
