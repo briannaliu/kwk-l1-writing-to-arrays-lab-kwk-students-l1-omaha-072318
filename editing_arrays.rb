@@ -11,6 +11,7 @@ def change_rainbow_colors
   # puts rainbow_colors[2]
 end
 
+rainbow_colors = change_rainbow_colors
 # puts change_rainbow_colors
 
 
